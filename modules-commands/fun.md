@@ -1,0 +1,3 @@
+# Fun
+
+`l!help fun`
