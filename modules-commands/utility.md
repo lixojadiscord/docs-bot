@@ -1,3 +1,0 @@
-# Utility
-
-`l!help utility`
