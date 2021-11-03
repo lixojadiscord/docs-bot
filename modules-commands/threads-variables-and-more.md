@@ -8,4 +8,4 @@ name - the name of the thread
 
 type - please select a type so private or public thread.
 
-duration -&#x20;
+duration - the autoarchive duration
