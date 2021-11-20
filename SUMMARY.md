@@ -11,4 +11,5 @@
 
 ## Modules / Commands
 
+* [Welcome - Module](modules-commands/welcome-module.md)
 * [Threads (Variables and more)](modules-commands/threads-variables-and-more.md)
