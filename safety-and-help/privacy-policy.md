@@ -1,8 +1,18 @@
 # Privacy Policy
 
+## How collect we the datas?
+
+* Use commands to save the data in the database.&#x20;
+* Via the Discord API.&#x20;
+* Via the Top.gg API.
+
 ## What data do we collect?
 
-We store the GuildID, RoleID, UserID, ChannelID, OwnerID of the Guild, (and MessageID) as soon as you execute a configuration command correctly, e.g. if you execute `/welcome setup <#Channel> [Custom Message]`, then we store the GuildID / ServerID in the data and also the ChannelID as well as the Custom Message (if this was specified).
+* GuildID
+* UserID
+* MessageID
+* RoleID
+* Your specified texts (for example: Welcome Custom Message).
 
 ## Why do we need the data?
 
