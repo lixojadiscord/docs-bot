@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Lixoja - Discord Bot](README.md)
+* [Lixoja - Documentation](README.md)
+* [Changelog](changelog.md)
 
 ## faq
 
@@ -8,10 +9,13 @@
 * [Suggestions](faq/suggestions.md)
 * [Known Issues](faq/known-issues.md)
 
-## Modules / Commands
+## Modules
 
-* [Welcome - Module](modules-commands/welcome-module.md)
-* [Threads (Variables and more)](modules-commands/threads-variables-and-more.md)
+* [Welcome](modules/welcome/README.md)
+  * [Configure the welcome module](modules/welcome/configure-the-welcome-module.md)
+  * [The variables](modules/welcome/the-variables.md)
+* [Threads](modules/threads/README.md)
+  * [How can i create a thread via Lixoja?](modules/threads/how-can-i-create-a-thread-via-lixoja.md)
 
 ## Safety & Help
 

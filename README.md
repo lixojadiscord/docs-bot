@@ -1,15 +1,15 @@
 ---
-description: The Lixoja is a english & german language Discord Bot!
+description: Welcome! 😄 I like lixoja users and servers they uses lixoja.
 ---
 
-# Lixoja - Discord Bot
+# Lixoja - Documentation
 
-{% hint style="info" %}
-Lixoja supports since 02. November 2021 only slash commands. The "old" commands was removed.
-{% endhint %}
+## What's the prefix?&#x20;
 
-Our Support Server: https://support.lixoja.xyz/
+* The **lixoja bot** supports since the 02. November 2021 only slash commands more. The commands with the `l!` prefix was removed.
 
-## Our discordbotlist.com Upvotes
+## Invite, Support Server etc?! (Support Server is too for feedback, we love feedback!)
 
-[![](https://discordbotlist.com/api/v1/bots/866047167760039938/widget)](https://discordbotlist.com/bots/866047167760039938)
+* [Bot Invite](htps://www.lixoja.xyz/invite)
+* [Support Server](https://support.lixoja.xyz)
+* [Website](https://www.lixoja.xyz)
