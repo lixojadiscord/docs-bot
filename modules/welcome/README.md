@@ -6,7 +6,7 @@ description: Welcome all new members! Yeah, lixoja welcome
 
 ## Variables for the welcome module
 
-* ``
+* Comes with the new docs!
 
 ##
 
