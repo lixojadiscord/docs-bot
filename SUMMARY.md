@@ -16,6 +16,9 @@
   * [The variables](modules/welcome/the-variables.md)
 * [Threads](modules/threads/README.md)
   * [How can i create a thread via Lixoja?](modules/threads/how-can-i-create-a-thread-via-lixoja.md)
+* [AntiRaid](modules/antiraid/README.md)
+  * [Joinban](modules/antiraid/joinban.md)
+  * [Joinkick](modules/antiraid/joinkick.md)
 
 ## Safety & Help
 
